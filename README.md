@@ -1,7 +1,7 @@
+<div width="100%" align="center">
 ### Hi there 👋
 
 <div width="100%" align="center">
-
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/overview.svg"/>
 
