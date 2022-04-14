@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Enzo!
 
+I'm a Computer Engineering student... (work in progress on info)
+
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
