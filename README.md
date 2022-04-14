@@ -1,7 +1,4 @@
-<div width="100%" align="center">
-<h1 align="center">
 ## Hey 👋, I'm Enzo!
-</h1>
 
 <div width="100%" align="center">
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
