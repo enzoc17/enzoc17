@@ -3,6 +3,11 @@
 <img align="left" src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/overview.svg"/>
 
+<br>
+Credits for github stats to <a href='https://github.com/rahul-jha98'>rahul-jha98</a>
+</div>
+<br>
+
 <!--
 **enzoc17/enzoc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
