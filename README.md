@@ -1,6 +1,6 @@
 <div width="100%" align="center">
 <h1 align="center">
-    ## Hey, I'm Enzo!
+    ## Hey 👋, I'm Enzo!
 </h1>
 
 <div width="100%" align="center">
