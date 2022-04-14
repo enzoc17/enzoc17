@@ -1,5 +1,5 @@
 <div width="100%" align="center">
-### Hi there 👋
+Hi there 👋
 
 <div width="100%" align="center">
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
@@ -11,6 +11,14 @@ Credits for github stats to <a href='https://github.com/rahul-jha98'>rahul-jha98
 </div>
 <br>
 
+  
+  
+  
+  
+  
+  
+  
+  
 <!--
 **enzoc17/enzoc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
