@@ -1,8 +1,9 @@
 ## Hey 👋, I'm Enzo!
 
-<div width="100%" align="center">
-<img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
+### 📊 Github Stats
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/overview.svg"/>
+<img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
+
 
 
 <br>
