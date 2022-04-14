@@ -1,9 +1,10 @@
+<div width="100%" align="center">
+
 ### Hi there 👋
 
 <img align="left" src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
 <img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/overview.svg"/>
 
-<div width="100%" align="center">
 <br>
 Credits for github stats to <a href='https://github.com/rahul-jha98'>rahul-jha98</a>
 </div>
