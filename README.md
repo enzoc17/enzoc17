@@ -1,9 +1,12 @@
 ## Hey 👋, I'm Enzo!
 
 ### 📊 Github Stats
-<img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/overview.svg"/>
-<img src="https://github.com/enzoc17/github-stats-transparent/blob/output/generated/languages.svg"/>
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/enzoc17/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/enzoc17/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 
 
 <br>
