@@ -3,7 +3,7 @@
 <br><br>
 
 I'm a Computer Engineering student currently enrolled at Università degli Studi della Campania "Luigi Vanvitelli".
-I'm currently learning Machine Learning for Computer Vision in order to write the MS thesis.
+I'm currently studying Machine Learning for Computer Vision in order to write the MS thesis.
 <br>
 
 ### 📊 Github Stats
