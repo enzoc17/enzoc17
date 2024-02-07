@@ -2,8 +2,6 @@
 <a href='https://www.linkedin.com/in/enzo-capoluongo-42107697/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br><br>
 
-I'm a System Engineer currently working in Leonardo S.p.A.
-<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
