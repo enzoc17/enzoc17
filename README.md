@@ -2,8 +2,7 @@
 <a href='https://www.linkedin.com/in/enzo-capoluongo-42107697/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br><br>
 
-I'm a Computer Engineering student currently enrolled at Università degli Studi della Campania "Luigi Vanvitelli".
-I'm currently studying Machine Learning for Computer Vision in order to write the MS thesis.
+I'm a System Engineer currently working in Leonardo S.p.A.
 <br>
 
 ### 📊 Github Stats
